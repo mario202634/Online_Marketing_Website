@@ -1,0 +1,129 @@
+body
+{
+    background: linear-gradient(-89deg, rgb(118,70,255) 0%, rgb(154,56,200) 100%);
+}
+
+/*.container
+{
+    background: var(--light);
+    border-radius: 25px;
+}*/
+/*Login Page*/
+.divcontainer
+{
+    margin-top: 15%;
+    width: 829px;
+    background: #ffffff;
+    height: 444px;
+    padding-right: 99px;
+    border-radius: 25px;
+}
+
+.loginbg
+{
+    background: url(../img/login2.png) center / contain no-repeat;
+    padding-left: 62px;
+    margin-right: -3px;
+    margin-left: 0px;
+}
+
+.inputdiv
+{
+    background: #f1f1f1;
+    border-radius: 25px;
+    padding: 10px;
+    margin-top: 15px;
+}
+
+.inputdiv > i
+{
+    margin-left: 15px;
+    color: rgb(152,152,152);
+}
+
+.inputdiv > input
+{
+    background: rgba(255,255,255,0);
+    border-style: none;
+    color: rgb(152,152,152);
+}
+
+.logbutt
+{
+    border-radius: 25px;
+    background: #282828;
+    width: 350px;
+    margin-top: 15px;
+    font-size: 24px;
+    padding: 10px;
+}
+
+.logbutt:hover
+{
+    background: #414141;
+}
+
+.greydarkbg
+{
+    background: var(--gray-dark);
+}
+
+.lightcol
+{
+    color: var(--light) !important;
+}
+
+.infoboxdiv
+{
+    height: 79.7969px;
+}
+
+.iconparent
+{
+    margin-bottom: -50px;
+    margin-left: -15px;
+    width: 204.984px;
+}
+
+.icon
+{
+    font-size: 33px;
+    padding-top: 3px;
+    padding-right: 3px;
+    padding-bottom: 3px;
+    padding-left: 3px;
+}
+
+.textparent
+{
+    margin-left: 35px;
+}
+
+.textparent > p
+{
+    font-size: 25px;
+    height: 14.5px;
+}
+
+.textparent > span
+{
+    font-size: 20px;
+}
+
+.tablediv
+{
+    background: var(--light) !important;
+    border-radius: 25px;
+}
+
+footer > p
+{
+    text-align: center;
+}
+select
+{
+    color: rgb(117,117,156);
+    background: rgb(241,241,241);
+    width: 539.031px !important;
+    height: auto !important;
+}
